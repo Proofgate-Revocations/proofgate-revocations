@@ -1,5 +1,20 @@
 {
   "version": 1,
   "last_updated": "2025-10-28T00:00:00Z",
-  "revoked": []
+  "revocations": [
+    {
+      "jti": "cbbe7221e0794be6af6233ad78c677e1",
+      "reason": "misuse",
+      "tenant": "CosimoInsurance",
+      "aud": "proofgate-ceo",
+      "revoked_utc": "2025-11-01T10:26:05Z",
+      "issuer": "Joey",
+      "meta": {
+        "host": "JOEYSPC",
+        "tool": "revoke_token.py",
+        "version": "1.2"
+      }
+    }
+  ],
+  "generated_utc": "2025-11-01T10:26:05Z"
 }
