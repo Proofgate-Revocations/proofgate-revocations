@@ -1,5 +1,5 @@
 {
   "alg": "ed25519",
   "crl_sha256": null,
-  "sig_b64": "3ZqNLJnTC3ba/1kCRNUUUOdUyys+8R9CIzF3Cpu8WKtCsUWdvbaj2k6MLE/remxPkh46eQh5FOtMUoVrE3oMCQ=="
+  "sig_b64": "0/OUE4pkomDmHHpb0KKafd1BkLpyzNOkBDnkXBo+X2UgpJD5HO+amPzMkED9oSY2iICc0KZnntMyx8bWgPgpBg=="
 }

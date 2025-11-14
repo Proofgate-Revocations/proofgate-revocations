@@ -3,10 +3,10 @@
   "revocations": [
     {
       "jti": "jti_1763095135-l6pavi",
-      "reason": "lost_key",
-      "tenant": "uhoh",
+      "reason": "offboarded",
+      "tenant": null,
       "aud": "proofgate-ceo",
-      "revoked_utc": "2025-11-14T08:58:50Z",
+      "revoked_utc": "2025-11-14T10:04:31Z",
       "issuer": "Joey",
       "meta": {
         "host": "JOEYSPC",
@@ -15,6 +15,6 @@
       }
     }
   ],
-  "last_updated": "2025-11-14T08:58:50Z",
-  "generated_utc": "2025-11-14T08:58:50Z"
+  "last_updated": "2025-11-14T10:04:31Z",
+  "generated_utc": "2025-11-14T10:04:31Z"
 }
