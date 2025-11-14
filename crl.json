@@ -3,12 +3,18 @@
   "revocations": [
     {
       "jti": "jti_1763095135-l6pavi",
-      "reason": "offboarded",
+      "reason": "lost_key",
       "tenant": null,
       "aud": "proofgate-ceo",
-      "revoked_utc": "2025-11-14T10:04:31Z"
+      "revoked_utc": "2025-11-14T10:39:30Z",
+      "issuer": "Joey",
+      "meta": {
+        "host": "JOEYSPC",
+        "tool": "RevokeTokenGUI.py",
+        "version": "gui-2.0"
+      }
     }
   ],
-  "last_updated": "2025-11-14T10:04:31Z",
-  "generated_utc": "2025-11-14T10:04:31Z"
+  "last_updated": "2025-11-14T10:39:30Z",
+  "generated_utc": "2025-11-14T10:39:30Z"
 }
