@@ -1,0 +1,11 @@
+﻿{
+  "version": 1,
+  "generated_at": "2025-01-01T00:00:00Z",
+  "entries": [
+    {
+      "kid": "alias/proofgate-sig",
+      "reason": "test_revocation",
+      "revoked_at": "2025-01-01T00:00:00Z"
+    }
+  ]
+}
