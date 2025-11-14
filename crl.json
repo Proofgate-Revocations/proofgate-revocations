@@ -1,11 +1,20 @@
-﻿{
-  "version": 1,
-  "generated_at": "2025-01-01T00:00:00Z",
-  "entries": [
+{
+  "version": "1",
+  "revocations": [
     {
-      "kid": "alias/proofgate-sig",
-      "reason": "test_revocation",
-      "revoked_at": "2025-01-01T00:00:00Z"
+      "jti": "jti_1763095135-l6pavi",
+      "reason": "lost_key",
+      "tenant": "uhoh",
+      "aud": "proofgate-ceo",
+      "revoked_utc": "2025-11-14T08:58:50Z",
+      "issuer": "Joey",
+      "meta": {
+        "host": "JOEYSPC",
+        "tool": "RevokeTokenGUI.py",
+        "version": "gui-2.0"
+      }
     }
-  ]
+  ],
+  "last_updated": "2025-11-14T08:58:50Z",
+  "generated_utc": "2025-11-14T08:58:50Z"
 }
